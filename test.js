@@ -1,4 +1,3 @@
-alert('window test');
 window.custom = function() {
   alert('window custom');
   var coll = document.getElementsByClassName("collapsible");
